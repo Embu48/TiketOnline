@@ -1,0 +1,174 @@
+CRITICAL - 2021-01-12 04:21:28 --> Invalid file: admin.php
+#0 C:\xampp\htdocs\propleyah\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin.php')
+#1 C:\xampp\htdocs\propleyah\system\Common.php(1213): CodeIgniter\View\View->render('admin', Array, true)
+#2 C:\xampp\htdocs\propleyah\app\Controllers\Admin.php(9): view('admin')
+#3 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(931): App\Controllers\Admin->index()
+#4 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-01-12 04:21:45 --> Invalid file: admin.php
+#0 C:\xampp\htdocs\propleyah\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin.php')
+#1 C:\xampp\htdocs\propleyah\system\Common.php(1213): CodeIgniter\View\View->render('admin', Array, true)
+#2 C:\xampp\htdocs\propleyah\app\Controllers\Admin.php(9): view('admin')
+#3 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(931): App\Controllers\Admin->index()
+#4 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-01-12 04:22:01 --> Invalid file: admin.php
+#0 C:\xampp\htdocs\propleyah\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin.php')
+#1 C:\xampp\htdocs\propleyah\system\Common.php(1213): CodeIgniter\View\View->render('admin', Array, true)
+#2 C:\xampp\htdocs\propleyah\app\Controllers\Admin.php(9): view('admin')
+#3 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(931): App\Controllers\Admin->index()
+#4 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-01-12 04:22:14 --> Invalid file: admin.php
+#0 C:\xampp\htdocs\propleyah\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin.php')
+#1 C:\xampp\htdocs\propleyah\system\Common.php(1213): CodeIgniter\View\View->render('admin', Array, true)
+#2 C:\xampp\htdocs\propleyah\app\Controllers\Admin.php(9): view('admin')
+#3 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(931): App\Controllers\Admin->index()
+#4 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#5 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-01-12 21:48:47 --> Invalid file: home/sidebar.php
+#0 C:\xampp\htdocs\propleyah\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/sidebar.ph...')
+#1 C:\xampp\htdocs\propleyah\system\Common.php(1213): CodeIgniter\View\View->render('home/sidebar', Array, true)
+#2 C:\xampp\htdocs\propleyah\app\Controllers\Home.php(9): view('home/sidebar')
+#3 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(931): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-01-12 21:54:34 --> Invalid file: home/sidebar.php
+#0 C:\xampp\htdocs\propleyah\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('home/sidebar.ph...')
+#1 C:\xampp\htdocs\propleyah\system\Common.php(1213): CodeIgniter\View\View->render('home/sidebar', Array, true)
+#2 C:\xampp\htdocs\propleyah\app\Controllers\Home.php(9): view('home/sidebar')
+#3 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(931): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-01-12 21:55:48 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(903): App\Controllers\Ticket->__construct()
+#1 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(417): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2021-01-12 21:56:24 --> Class 'BaseController' not found
+#0 C:\xampp\htdocs\propleyah\system\Autoloader\Autoloader.php(342): include_once()
+#1 C:\xampp\htdocs\propleyah\system\Autoloader\Autoloader.php(274): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\propleyah\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(888): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-01-12 21:57:07 --> Class 'BaseController' not found
+#0 C:\xampp\htdocs\propleyah\system\Autoloader\Autoloader.php(342): include_once()
+#1 C:\xampp\htdocs\propleyah\system\Autoloader\Autoloader.php(274): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\propleyah\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(888): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-01-12 21:57:16 --> Class 'Controller' not found
+#0 C:\xampp\htdocs\propleyah\system\Autoloader\Autoloader.php(342): include_once()
+#1 C:\xampp\htdocs\propleyah\system\Autoloader\Autoloader.php(274): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\propleyah\system\Autoloader\Autoloader.php(228): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(888): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-01-12 22:46:34 --> Undefined variable: validation
+#0 C:\xampp\htdocs\propleyah\app\Views\ticket\pesawat.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 65, Array)
+#1 C:\xampp\htdocs\propleyah\system\View\View.php(219): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\propleyah\system\Common.php(1213): CodeIgniter\View\View->render('ticket/pesawat', Array, true)
+#3 C:\xampp\htdocs\propleyah\app\Controllers\Ticket.php(27): view('ticket/pesawat')
+#4 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(931): App\Controllers\Ticket->pesawat()
+#5 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ticket))
+#6 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-01-12 22:47:42 --> Undefined variable: validation
+#0 C:\xampp\htdocs\propleyah\app\Views\ticket\pesawat.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 65, Array)
+#1 C:\xampp\htdocs\propleyah\system\View\View.php(219): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\propleyah\system\Common.php(1213): CodeIgniter\View\View->render('ticket/pesawat', Array, true)
+#3 C:\xampp\htdocs\propleyah\app\Controllers\Ticket.php(29): view('ticket/pesawat')
+#4 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(931): App\Controllers\Ticket->pesawat()
+#5 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ticket))
+#6 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-01-12 22:47:53 --> Undefined variable: validation
+#0 C:\xampp\htdocs\propleyah\app\Views\ticket\pesawat.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 65, Array)
+#1 C:\xampp\htdocs\propleyah\system\View\View.php(219): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\propleyah\system\Common.php(1213): CodeIgniter\View\View->render('ticket/pesawat', Array, true)
+#3 C:\xampp\htdocs\propleyah\app\Controllers\Ticket.php(29): view('ticket/pesawat')
+#4 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(931): App\Controllers\Ticket->pesawat()
+#5 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ticket))
+#6 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-01-12 22:48:01 --> Undefined variable: validation
+#0 C:\xampp\htdocs\propleyah\app\Views\ticket\pesawat.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 65, Array)
+#1 C:\xampp\htdocs\propleyah\system\View\View.php(219): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\propleyah\system\Common.php(1213): CodeIgniter\View\View->render('ticket/pesawat', Array, true)
+#3 C:\xampp\htdocs\propleyah\app\Controllers\Ticket.php(29): view('ticket/pesawat')
+#4 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(931): App\Controllers\Ticket->pesawat()
+#5 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ticket))
+#6 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-01-12 22:51:21 --> Undefined variable: data
+#0 C:\xampp\htdocs\propleyah\app\Controllers\Ticket.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(931): App\Controllers\Ticket->pesawat()
+#2 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ticket))
+#3 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-01-12 22:51:53 --> Undefined variable: data
+#0 C:\xampp\htdocs\propleyah\app\Controllers\Ticket.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(931): App\Controllers\Ticket->pesawat()
+#2 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ticket))
+#3 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-01-12 23:05:52 --> Undefined variable: validation
+#0 C:\xampp\htdocs\propleyah\app\Views\ticket\pesawat.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 62, Array)
+#1 C:\xampp\htdocs\propleyah\system\View\View.php(219): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\propleyah\system\Common.php(1213): CodeIgniter\View\View->render('ticket/pesawat', Array, true)
+#3 C:\xampp\htdocs\propleyah\app\Controllers\Ticket.php(33): view('ticket/pesawat')
+#4 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(931): App\Controllers\Ticket->pesawat()
+#5 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(427): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ticket))
+#6 C:\xampp\htdocs\propleyah\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\propleyah\public\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\propleyah\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}

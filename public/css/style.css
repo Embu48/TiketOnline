@@ -1,0 +1,29 @@
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+
+.gambar {
+  width: 100px;
+  height: 100px;
+}
+
+.gambarprofil {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+}
+
+.gambarprofil:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+}
+
+.tabelprofil {
+  margin: auto;
+}
+
+.tabelprofil > tbody > tr > * {
+  text-align: center;
+  vertical-align: middle;
+  padding: 40px;
+}

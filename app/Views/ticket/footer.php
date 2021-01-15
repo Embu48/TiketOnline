@@ -1,0 +1,10 @@
+<script src="/plugins/jquery/jquery.min.js"></script>
+<script src="/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/dist/js/adminlte.min.js"></script>
+<script src="/dist/js/demo.js"></script>
+<script src="js/jquery-1.11.3.min.js"></script>             
+<script src="js/popper.min.js"></script>                    
+<script src="js/datepicker.min.js"></script>                
+<script src="js/jquery.singlePageNav.min.js"></script>      
+<script src="slick/slick.min.js"></script>                  
+<script src="js/jquery.scrollTo.min.js"></script>           
